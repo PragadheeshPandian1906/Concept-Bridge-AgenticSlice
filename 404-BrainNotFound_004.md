@@ -1,8 +1,7 @@
 # AgentSpec --- ConceptBridge
 
 **Team:** 404 Brain Not Found\
-**Department:**Information Technology\
-**College:** Madras Institute of Technology, Anna University\
+**Department:** Information Technology,Madras Institute of Technology, Anna University\
 **Submitted:** 15 September 2026
 
 ## 1. The setting
