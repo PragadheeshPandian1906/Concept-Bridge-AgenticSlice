@@ -14,8 +14,8 @@ This repo contains our **two-day hackathon pilot**: a single-quiz, end-to-end ve
 **Track:** Semantic Matchmaking
 **Institution:** Madras Institute of Technology, Anna University
 
-| # | Name                   |
-|---|------                  |
+| No| Name                   |
+|---|------------------------|
 | 1 | Sanjana V (Team Leader)|
 | 2 | Pragadheesh Pandian S P|
 | 3 | Aishwarya N            |
@@ -46,7 +46,7 @@ This repo contains our **two-day hackathon pilot**: a single-quiz, end-to-end ve
 
 ## Architecture
 
-
+![ConceptBridge Architecture](assets/architecture-diagram.png)
 
 ---
 
