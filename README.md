@@ -10,9 +10,9 @@ This repo contains our **two-day hackathon pilot**: a single-quiz, end-to-end ve
 
 ## Team
 
-**Team Name:** 404 Brain Not Found
-**Track:** Semantic Matchmaking
-**Institution:** Madras Institute of Technology, Anna University
+**Team Name:** 404 Brain Not Found**
+**Track:** Semantic Matchmaking**
+**Institution:** Madras Institute of Technology, Anna University**
 
 | No| Name                   |
 |---|------------------------|
